@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "655396747679",
+    "project_id": "skillpro-908f4",
+    "storage_bucket": "skillpro-908f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655396747679:android:acd38d82e4d7ef7f01a5aa",
+        "android_client_info": {
+          "package_name": "com.app.skill.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655396747679-3miinlrgmpv537g1t5kuptpc3nn31chj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.skill.pro",
+            "certificate_hash": "d89c8d46af14abf2c4217c52f6ebf82b7747e17f"
+          }
+        },
+        {
+          "client_id": "655396747679-42ss102vv0rv2nq2g2npvcmhtbdvp2ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-8XOvKRI7M5BqsM3fSQnfJYDHeOSwCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655396747679-42ss102vv0rv2nq2g2npvcmhtbdvp2ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
